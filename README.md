@@ -1,2 +1,2 @@
-# Innovative-new-drug
+# Innovative-new-drug (IND)
 Vaccine efficacy comparison
